@@ -106,11 +106,8 @@ export function Header() {
                             <MobileNavLink href="/#features">
                               О приложений
                             </MobileNavLink>
-                            <MobileNavLink href="/#reviews">
-                              Отзовы
-                            </MobileNavLink>
-                            <MobileNavLink href="/#pricing">
-                              Цена
+                            <MobileNavLink href="/#features">
+                              Преимущества
                             </MobileNavLink>
                             <MobileNavLink href="/#faqs">FAQs</MobileNavLink>
                           </div>

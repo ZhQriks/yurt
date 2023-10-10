@@ -10,8 +10,7 @@ export function NavLinks() {
 
   return [
     ['О Приложений', '/#features'],
-    ['Отзовы', '/#reviews'],
-    ['Цена', '/#pricing'],
+    ['Преимущества', '/#features'],
     ['FAQ', '/#faqs'],
   ].map(([label, href], index) => (
     <Link
